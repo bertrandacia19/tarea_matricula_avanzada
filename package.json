@@ -1,0 +1,16 @@
+
+
+{
+  "name": "electron-primera-app",
+  "version": "1.0.0",
+  "description": "Primera Aplicacion de Electron",
+  "main": "indez.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dacia Bertrand <bertranddacia826@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.10"
+  }
+}

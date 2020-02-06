@@ -1,0 +1,37 @@
+body,html{
+padding: 0;
+margin :0;
+background-color:#92A8D1;
+
+}
+
+
+#form-matricula{
+display:flex;
+padding: 10px 0 0 10px;
+
+
+}
+
+#form-matricula .casilla{
+display:flex;
+flex-direction:column;
+margin-right: 10px;
+}
+
+#form-matricula .casilla label{
+  font-weight: 600;
+  font-size: 18px;
+}
+
+#form-matricula .casilla input{
+    padding:10px;
+    font-size: 14px;
+}
+
+#form-matricula input[type="submit"]{
+
+display :flex ;
+background-color: rgb(161, 172, 201) ;
+font-size: 16xp;
+}
